@@ -32,8 +32,3 @@ The code is organized into two parts: Engines and Helpers. The Engines consist o
 
 This project provides valuable insights into various aspects of NLP and Big Data processing, including data cleaning, model training, deployment on cloud infrastructure, and integration with social media APIs. It also demonstrates the importance of automation in customer support and engagement.
 
-## Architecture Diagram
-
-![Architecture Diagram](architecture_diagram.png)
-
-For detailed instructions on running the code and setting up the environment, please refer to the README file.
